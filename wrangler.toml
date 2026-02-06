@@ -1,7 +1,0 @@
-name = "todo-naso"
-compatibility_date = "2026-02-05"
-compatibility_flags = ["nodejs_compat"]
-[[d1_databases]]
-binding = "DB"
-database_name = "naso-todo-db"
-database_id = "efbe443f-b7f0-429a-8c28-e6f7980c46f9"
