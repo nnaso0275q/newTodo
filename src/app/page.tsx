@@ -97,7 +97,7 @@ export default function Home() {
   return (
     <div className="flex justify-center items-start min-h-screen pt-10 bg-linear-to-br from-blue-50 via-white to-blue-100 dark:from-zinc-950 dark:to-zinc-900">
       <Card className="w-full max-w-sm mx-4 shadow-md border border-blue-100 dark:border-zinc-800 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-md rounded-2xl">
-        <CardHeader className="pb-2">
+        <CardHeader>
           <CardTitle className="text-xl font-semibold text-blue-600 tracking-tight">
             Tasks
           </CardTitle>
